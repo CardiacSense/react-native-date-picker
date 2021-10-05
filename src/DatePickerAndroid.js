@@ -11,7 +11,7 @@ const NativeDatePicker = requireNativeComponent(
   { nativeOnly: { onChange: true } }
 )
 
-const height = 180
+const height = 140
 const timeModeWidth = 240
 const defaultWidth = 310
 
